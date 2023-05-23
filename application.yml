@@ -3,4 +3,4 @@ spring:
     host: localhost
     port: 5671
     username: user
-    password: password
+    password: '{cipher}AQArD0qxTLfxd6Y/+AgTMLRGfJT8kWjr4A3yt/4hN0KPCfD6LmZ0LlG8NW2rGr6XQSnkG8iEM1TDFofuXz4bMbXs3sYGUb0mztCvhdUKmvGBysRT1Jpnymb1NOAim9pzan+dk4eVcCmixcTfV+D8U6t13GpNsn4qiohSB6i904t7oUzmweg1NREb6Kcn0LANuArhK9JD8kxXSzQ2YnTPCNZcke8F7BOtETZ4upLah2Q9vK1TQezk0CdpTy5cX+EOfvAQTp0rwc8X4rR6cxj5gl8XWsX9ai75R98jDgGfcuaVqVf5oNIV9WVmp7QVbDaCGPsVOCQSbqxJLl20blPfXoaa/RPmVfLg3iLLyzk0hKuXfGyc8yEvIV1XlNyZ4nyd6ho='

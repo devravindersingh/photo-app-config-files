@@ -4,11 +4,11 @@ gateway:
 token:
   expiration:
     time: 360000
-  secret: toswOchetrochomes1n0c3lwriphaQeproPrIZakureqewoqlcislnajowaprewr
+  secret: '{cipher}AQBFRLCEkDYz9Ll/7a96SwhvHhAQwJJO9nOKvheI1eNCVdXIKAOGN1jjCXTTqvg9vmtW4gIoCeOrpv763SqxRKOyn1FlJLsQSZw/A67MpO2UUB6kP71HvFLuVzgkm81gs26BFU0q97OcvSv/xZ+qEgODM8yzsUH2x6j2dZqpJ+AzPZ1PTde//1OruRrQFlE1/nOdxrP9uFZ6sl1n4EDP1QjKp+Ri/KxZ/ymkpqBGdzyb6gBaLUL8DXypnFxjxjU6LdK8nhtggxzR5jSUzPPtp+VDMNqDQ160geS6aVflRYCY2UtsxQQssiiqyvFef5q+aouEVLmAaBga1yX13Rw+Q17YJCBZhE1gaThSD5bcItSHt6MtQbebpHa0IRble1SPdRBSYEFAqBZq2ewoN3kSZShzAz/hCW5WKSpRvvNHCODXKl1+4qMweOCW0mG1dSEll1i5njbOY1qFmYP4v2ZE1Mf5'
 
 spring:
   datasource:
-    password: root
+    password: '{cipher}AQAeYg0bEczPdtAEr0LFYeYUTXfhKA74C1IEMmQGSfUZVJewjdH1dvl0PqQpGdUce/ru9FBPllLYmoj0VipXAkV+wFXShiAUBf/Q9vqcNzyxWO6SqyJV9vBlvB0OjOV1c8KynnmJTgmlMGEc87hBo9aR6kZBmTV2e7lF+PJ3dQrCfJQkHGhJfqGA/djEHpmdqoAIb7w8bN4tcixi3+ZLSJ3eTQzC4rBhjT8F8y+zhRo+c7424L6iRwdOP7v00z4vZvxv6s+zF7tvMDtGX+Cy5sVGSw5RAoHNS5egBsSfWyb81bUePQhPUTEG/0eUJZ9mH5lSyqANg3aNI+Sv5ADK6rptq0R91XglZhqeePdpuf9bDXP44fttSq2Jmz546I90Ofo='
     url: jdbc:mysql://localhost:3306/photo_app
     username: ravinder
   jpa:
