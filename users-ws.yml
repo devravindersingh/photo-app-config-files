@@ -5,3 +5,13 @@ token:
   expiration:
     time: 360000
   secret: toswOchetrochomes1n0c3lwriphaQeproPrIZakureqewoqlcislnajowaprewr
+
+spring:
+  datasource:
+    password: root
+    url: jdbc:mysql://localhost:3306/photo_app
+    username: ravinder
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true  
